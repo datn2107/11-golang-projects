@@ -1,0 +1,3 @@
+[submodule "go-bookstore"]
+	path = go-bookstore
+	url = https://github.com/datn2107/go-bookstore.git
